@@ -1,6 +1,9 @@
 # SURF dose model
-     [![DOI](https://zenodo.org/badge/1419442022.svg)](https://doi.org/10.5281/zenodo.23375193)
+
+[![DOI](https://zenodo.org/badge/1419442022.svg)](https://doi.org/10.5281/zenodo.23375193)
+
 Model code and data for estimating the acid dose that stabilizes stored urine with citric acid or white vinegar, developed for the stabilized-urine recirculating flush (SURF) concept for mobile urine-diverting toilets.
+
 The model couples urea-hydrolysis kinetics to a charge balance, so that pH is calculated from the acid dose rather than prescribed. It reproduces the 13-day storage experiments and estimates the minimum stabilizing dose (MSD) between the tested doses.
 
 ## Contents
@@ -49,7 +52,8 @@ Estimates outside the tested dose range, or for urine very different from the or
 If you use this code, please cite the article and the archived version of this repository:
 
 - [Article citation to be added after publication]
-[Ul Rahman, S. (2026). SURF dose model (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23375194]
+- Ul Rahman, S. (2026). SURF dose model (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23375194
+
 ## License
 
 Code: MIT License (see `LICENSE`).
