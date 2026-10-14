@@ -50,7 +50,7 @@ Estimates outside the tested dose range, or for urine very different from the or
 If you use this code, please cite the article and the archived version of this repository:
 
 - [Article citation to be added after publication]
-- [     Rahman, S.U. (2026). SURF dose model (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23375194]
+- [- Ul Rahman, S. (2026). SURF dose model (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23375194]
 
 ## License
 
